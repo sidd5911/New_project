@@ -1,0 +1,71 @@
+Category,Metric,Value
+Overall,Total Sales,2297200.86
+Overall,Total Profit,286397.02
+Overall,Total Orders,5009
+Overall,Total Rows (Line Items),9994
+Overall,Overall Profit Margin %,12.47
+Overall,Average Discount,0.1562
+Overall,Average Shipping Days,3.96
+Overall,Date Range,2014-01-03 to 2017-12-30
+Category - Furniture,Total Sales,741999.8
+Category - Furniture,Total Profit,18451.27
+Category - Furniture,Profit Margin %,2.49
+Category - Office Supplies,Total Sales,719047.03
+Category - Office Supplies,Total Profit,122490.8
+Category - Office Supplies,Profit Margin %,17.04
+Category - Technology,Total Sales,836154.03
+Category - Technology,Total Profit,145454.95
+Category - Technology,Profit Margin %,17.4
+Key Finding,Most Profitable Category,Technology
+Key Finding,Least Profitable Category,Furniture
+Loss-Making Sub-Category,Tables,-17725.48
+Loss-Making Sub-Category,Bookcases,-3472.56
+Loss-Making Sub-Category,Supplies,-1189.1
+Key Finding,Top Selling Sub-Category,Phones
+Region - Central,Total Sales,501239.89
+Region - Central,Total Profit,39706.36
+Region - East,Total Sales,678781.24
+Region - East,Total Profit,91522.78
+Region - South,Total Sales,391721.91
+Region - South,Total Profit,46749.43
+Region - West,Total Sales,725457.82
+Region - West,Total Profit,108418.45
+Key Finding,Best Performing Region (Profit),West
+Segment - Consumer,Total Sales,1161401.34
+Segment - Consumer,Total Profit,134119.21
+Segment - Corporate,Total Sales,706146.37
+Segment - Corporate,Total Profit,91979.13
+Segment - Home Office,Total Sales,429653.15
+Segment - Home Office,Total Profit,60298.68
+Ship Mode - First Class,Avg Shipping Days,2.18
+Ship Mode - Same Day,Avg Shipping Days,0.04
+Ship Mode - Second Class,Avg Shipping Days,3.24
+Ship Mode - Standard Class,Avg Shipping Days,5.01
+Correlation,Discount vs Profit,-0.219
+Correlation,Sales vs Profit,0.479
+Top 5 Customer by Sales,Sean Miller,25043.05
+Top 5 Customer by Sales,Tamara Chand,19052.22
+Top 5 Customer by Sales,Raymond Buch,15117.34
+Top 5 Customer by Sales,Tom Ashbrook,14595.62
+Top 5 Customer by Sales,Adrian Barton,14473.57
+Top 5 Product by Profit,Canon imageCLASS 2200 Advanced Copier,25199.93
+Top 5 Product by Profit,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,7753.04
+Top 5 Product by Profit,Hewlett Packard LaserJet 3310 Copier,6983.88
+Top 5 Product by Profit,Canon PC1060 Personal Laser Copier,4570.93
+Top 5 Product by Profit,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",4094.98
+Top 5 Product by Loss,Cubify CubeX 3D Printer Double Head Print,-8879.97
+Top 5 Product by Loss,Lexmark MX611dhe Monochrome Laser Printer,-4589.97
+Top 5 Product by Loss,Cubify CubeX 3D Printer Triple Head Print,-3839.99
+Top 5 Product by Loss,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,-2876.12
+Top 5 Product by Loss,Bush Advantage Collection Racetrack Conference Table,-1934.4
+Yearly Trend - 2014.0,Total Sales,484247.5
+Yearly Trend - 2014.0,Total Profit,49543.97
+Yearly Trend - 2015.0,Total Sales,470532.51
+Yearly Trend - 2015.0,Total Profit,61618.6
+Yearly Trend - 2016.0,Total Sales,609205.6
+Yearly Trend - 2016.0,Total Profit,81795.17
+Yearly Trend - 2017.0,Total Sales,733215.26
+Yearly Trend - 2017.0,Total Profit,93439.27
+Discount Impact,Orders with Discount >= 30%,1393
+Discount Impact,Avg Profit for Discount >= 30%,-97.18
+Discount Impact,Avg Profit for Discount < 30%,49.04
